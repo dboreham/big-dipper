@@ -28,8 +28,8 @@
     },
     "genesisFile": "https://gist.githubusercontent.com/dboreham/7e9490292200ee0c3950ed7429b25977/raw/627cf48ef9755ca3e0a15468b4afe110b7afac3a/devnet-2.json",
     "remote":{
-        "rpc":"http://139.178.68.130:26657",
-        "lcd":"http://139.178.68.130:1317"
+        "rpc":"http://docker.host:26657",
+        "lcd":"http://docker.host:1317"
     },
     "debug": {
         "startTimer": true,
